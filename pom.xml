@@ -78,6 +78,12 @@
   </build>
   <url>https://github.com/keith-turner/deriggy</url>
 
+  <scm>
+    <connection>scm:git:git://github.com/keith-turner/deriggy.git</connection>
+    <developerConnection>scm:git:git@github.com:keith-turner/deriggy.git</developerConnection>
+    <url>https://github.com/keith-turner/deriggy</url>
+  </scm>
+
   <distributionManagement>
     <repository>
       <id>ossrh</id>
