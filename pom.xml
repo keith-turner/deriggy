@@ -4,7 +4,7 @@
 
   <groupId>com.github.keith-turner</groupId>
   <artifactId>deriggy</artifactId>
-  <version>1.0.0</version>
+  <version>1.0.1-SNAPSHOT</version>
   <packaging>jar</packaging>
 
   <name>Deriggy</name>
@@ -96,7 +96,7 @@
     <connection>scm:git:git://github.com/keith-turner/deriggy.git</connection>
     <developerConnection>scm:git:git@github.com:keith-turner/deriggy.git</developerConnection>
     <url>https://github.com/keith-turner/deriggy</url>
-    <tag>deriggy-1.0.0</tag>
+    <tag>HEAD</tag>
   </scm>
 
   <distributionManagement>
