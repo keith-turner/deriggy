@@ -9,6 +9,8 @@
 
   <name>Deriggy</name>
 
+  <description>Maintains a derived graph from multiple changing raw graphs</description>
+
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <fluo.version>1.2.0</fluo.version>
@@ -77,6 +79,18 @@
     </plugins>
   </build>
   <url>https://github.com/keith-turner/deriggy</url>
+  <licenses>
+    <license>
+      <name>The Apache Software License, Version 2.0</name>
+      <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
+    </license>
+  </licenses>
+  <developers>
+    <developer>
+      <name>Keith Turner</name>
+      <email>keith@deenlo.com</email>
+    </developer>
+  </developers>
 
   <scm>
     <connection>scm:git:git://github.com/keith-turner/deriggy.git</connection>
